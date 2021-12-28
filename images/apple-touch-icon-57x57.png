@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="ru" class="error-page">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="HO7SuprYCAeiI4KKHS3dDvr0Pz4otqiX_AoUPI6AymBYt6PV471GScNo1fh0SK94nJFUC2z0-8-9ZX9V__r5BA==">
+    <base href>
+
+    <title>Not Found (#404)</title>
+    <meta name="description" content>
+    <meta name="keywords" content>
+    <meta name="robots" content>
+    <meta name="author" content="VINTAGE">
+    <meta name="designer" content="VINTAGE">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#121212">
+    <meta name="HandheldFriendly" content="True">
+
+    <link rel="alternate" href="https://vintage.agency/error/error" hreflang="en">
+
+    <!-- Facebook -->
+    <meta property="og:title" content="Not Found (#404)">
+    <meta property="og:site_name" content="VINTAGE Web Production">
+    <meta property="og:description" content>
+    <meta property="og:url" content="https://vintage.com.ua">
+    <meta property="og:image" content="share.png">
+    <meta property="og:type" content="website">
+
+    <!-- Google Plus -->
+    <meta itemprop="name" content="Not Found (#404)">
+    <meta itemprop="description" content>
+    <meta itemprop="image" content="https://vintage.com.ua/share.png">
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Not Found (#404)">
+    <meta name="twitter:description" content>
+    <meta name="twitter:site" content="@Vintage">
+    <meta name="twitter:creator" content="@Vintage">
+    <meta name="twitter:url" content>
+    <meta name="twitter:image" content="https://vintage.com.ua/share.png">
+
+    <!-- Favicons -->
+    <link rel="apple-touch-icon" href="apple-touch-icon-57x57.png" sizes="57x57">
+    <link rel="apple-touch-icon" href="apple-touch-icon-60x60.png" sizes="60x60">
+    <link rel="apple-touch-icon" href="apple-touch-icon-72x72.png" sizes="72x72">
+    <link rel="apple-touch-icon" href="apple-touch-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="apple-touch-icon-114x114.png" sizes="114x114">
+    <link rel="apple-touch-icon" href="apple-touch-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="apple-touch-icon-144x144.png" sizes="144x144">
+    <link rel="apple-touch-icon" href="apple-touch-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="apple-touch-icon-180x180.png" sizes="180x180">
+    <link rel="icon" href="favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="mask-icon" href="../fonts/safari-pinned-tab.svg" color="#121212">
+    <link rel="shortcut icon" href="../favicon.ico">
+
+
+    <meta name="msapplication-TileColor" content="#121212">
+    <meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+
+    <link href="https://vintage.com.ua/error/error" rel="canonical">
+<link href="../css/styles.css" rel="stylesheet">
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '804075646442971');
+        fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="../tr"></noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Google Analytics -->
+    <script async src="../js_1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-140392220-1');
+        gtag('config', 'AW-767762527');
+    </script>
+
+    <script>
+        function gtag_report_conversion(url) {
+            var callback = function () {
+                if (typeof(url) != 'undefined') {
+                    window.location = url;
+                }
+            };
+            gtag('event', 'conversion', {
+                'send_to': 'AW-734634830/4lm2CK6NqK4BEM7Gpt4C',
+                'event_callback': callback
+            });
+            return false;
+        }
+    </script>
+
+    <script>
+        gtag('event', 'page_view', {
+            'send_to': 'AW-767762527',
+            'items': [{
+                'location_id': window.location.href,
+                'google_business_vertical': 'custom'
+            }]
+        });
+    </script>
+    <!-- End Google Analytics -->
+
+</head>
+<body>
+
+<!-- Call Tracking Code -->
+<script type="text/javascript">
+    (function() {
+            var widgetId = '7c8f3977a7c71a597b4e3b142b841551';
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.charset = 'utf-8';
+            s.async = true;
+            s.src = '//callme1.voip.com.ua/lirawidget/script/'+widgetId;
+            var ss = document.getElementsByTagName('script')[0];
+            ss.parentNode.insertBefore(s, ss);}
+    )();
+</script>
+<!-- End Call Tracking Code -->
+
+<div class="landscape-splash">
+    <div class="landscape-splash__message">
+        <svg class="svg svg-loading ico">
+            <use xlink:href="../fonts/sprite.svg#loading"/>
+        </svg>        <p>Переверните  экран</p>
+    </div>
+</div>
+
+<div class="menu hidden">
+    <div class="menu__bg"></div>
+    <div class="menu__bottom-line"></div>
+    <div class="menu__content-wrap">
+        <div class="menu__content">
+            <div class="glitch">
+            </div>
+            <div class="v-lines hidden">
+                <div class="v-lines__outer"></div>
+                <div class="v-lines__inner"></div>
+            </div>
+            <ul class="pages-list">
+                <li class="pages-list__i">
+                    <div class="inner">
+                        <div class="num">00</div>
+                        <div class="line"></div>
+                        <div class="label">
+                            <a href="/">
+                                Главная                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="pages-list__i">
+                    <div class="inner">
+                        <div class="num">01</div>
+                        <div class="line"></div>
+                        <div class="label">
+                            <a href="/about-vintage">
+                                О студии                            </a>
+                        </div>
+                    </div>
+                </li>
+                                <li class="pages-list__i">
+                    <div class="inner">
+                        <div class="num">02</div>
+                        <div class="line"></div>
+                        <div class="label">
+                            <a href="/portfolio">
+                                Портфолио                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="pages-list__i">
+                    <div class="inner">
+                        <div class="num">03</div>
+                        <div class="line"></div>
+                        <div class="label">
+                            <a href="/services">
+                                Услуги и цены                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="pages-list__i">
+                    <div class="inner">
+                        <div class="num">04</div>
+                        <div class="line"></div>
+                        <div class="label">
+                            <a href="/contacts">
+                                Контакты                            </a>
+                        </div>
+                    </div>
+                </li>
+
+                            </ul>
+                <a href="/ar/AR.html">
+    <div class="vintage-is-all  ">
+
+        <div class="rolling-block">
+            <svg class="svg svg-all_you rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#all_you"/>
+            </svg>
+        </div>
+        <div class="rolling-block">
+            <svg class="svg svg-need_is rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#need_is"/>
+            </svg>
+        </div>
+        <div class="rolling-block">
+            <svg class="svg svg-v rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#v"/>
+            </svg>
+        </div>
+    </div>
+        <div class="ar-div-block"></div>
+    </a>
+            <div class="socials">
+                <div class="behance-btn-block rolling-block">
+                    <a href="https://www.behance.net/www_vintage" target="_blank" class="rolling-block__content portfolio-btn roll-hover-btn">
+                        <p>Behance</p>
+                    </a>
+                </div>
+                                <div class="facebook-btn-block rolling-block">
+                    <a href="https://www.facebook.com/VintageWWW/" target="_blank" class="rolling-block__content portfolio-btn roll-hover-btn">
+                        <p>Facebook</p>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="screen-panel screen-panel_error hidden">
+    <div class="fixed-hud render-update"></div>
+    <div class="fixed-hud rolling-block vintage-logo invertable" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+
+        <a href="/">
+            <div class="rolling-block__content">
+                <div class="icon icon-vintage"></div>
+                <div class="icon icon-v"></div>
+            </div>
+        </a>
+
+    </div>
+    <div class="fixed-hud mobile-splash invertable" data-prop="background-color" data-original-color="0x121212" data-inverted-color="0xFFFFFF" data-alpha="0.9"></div>
+    <div class="fixed-hud menu-block">
+
+        <div class="menu-btn-label rolling-block invertable hidden" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+            <a href="/portfolio/vr" class="mobile-only rolling-block__content roll-hover-btn">
+    <p>VR</p>
+</a>
+<a href="#" class="label rolling-block__content roll-hover-btn">
+    <p>Меню</p>
+</a>
+        </div>
+
+        <div class="menu-btn invertable" data-selector=".menu-btn__line .menu-btn__line__inner" data-prop="background-color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+            <div class="menu-btn__line">
+                <div class="menu-btn__line__inner"></div>
+                <div class="menu-btn__line__inner"></div>
+            </div>
+            <div class="menu-btn__line">
+                <div class="menu-btn__line__inner"></div>
+                <div class="menu-btn__line__inner"></div>
+            </div>
+            <div class="menu-btn__line">
+                <div class="menu-btn__line__inner"></div>
+                <div class="menu-btn__line__inner"></div>
+            </div>
+        </div>
+    </div>
+    <div class="fixed-hud vintage-web-prod">
+        <div class="rolling-block invertable" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+            <p class="rolling-block__content">Vintage</p>
+        </div>
+        <div class="rolling-block invertable" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+            <p class="rolling-block__content">Web</p>
+        </div>
+        <div class="rolling-block invertable" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+            <p class="rolling-block__content">Production</p>
+        </div>
+    </div>
+        <div class="vintage-is-all  fixed-hud hidden">
+
+        <div class="rolling-block">
+            <svg class="svg svg-all_you rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#all_you"/>
+            </svg>
+        </div>
+        <div class="rolling-block">
+            <svg class="svg svg-need_is rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#need_is"/>
+            </svg>
+        </div>
+        <div class="rolling-block">
+            <svg class="svg svg-v rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#v"/>
+            </svg>
+        </div>
+    </div>
+    <div class="fixed-hud socials-portfolio clearfix">
+    <div class="portfolio rolling-block invertable" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+        <a href="/portfolio" class="rolling-block__content portfolio-btn roll-hover-btn">
+            <p>Portfolio</p>
+        </a>
+    </div>
+    <div class="behance rolling-block invertable hidden" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+        <a href="https://www.behance.net/www_vintage" target="_blank" class="rolling-block__content portfolio-btn roll-hover-btn">
+            <p>Behance</p>
+        </a>
+    </div>
+        <div class="facebook rolling-block invertable hidden" data-selector=".rolling-block__content" data-prop="color" data-original-color="0xFFFFFF" data-inverted-color="0x121212">
+        <a href="https://www.facebook.com/VintageWWW/" target="_blank" class="rolling-block__content portfolio-btn roll-hover-btn">
+            <p>Facebook</p>
+        </a>
+    </div>
+</div>
+    <div class="error inner-section hidden">
+        <div class="v-lines">
+            <div class="v-lines__outer"></div>
+            <div class="v-lines__inner"></div>
+        </div>
+        <div class="shadows">
+            <img class="shadow shadow_left" src="shadow.png">
+            <img class="shadow shadow_right" src="shadow.png">
+        </div>
+        <div class="content-wrap">
+            <div class="inner-content-wrap">
+                <div class="error-message">
+                    <img src="../fonts/error_404.svg" class="error-code">
+                    <div class="error-subline"></div>
+
+                    <div class="rolling-block">
+                        <p class="rolling-block__content">
+                            ВСЯ ЖИЗНЬ — ВЕЧНЫЙ ПОИСК                        </p>
+                    </div>
+                    <div class="rolling-block">
+                        <p class="rolling-block__content">
+                            <span>ВЕРНИТЕСЬ</span>
+                            <a href="/" class="roll-hover-btn">
+                                <span>на главную</span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="rolling-block">
+                        <p class="rolling-block__content">
+                            И ПОПРОБУЙТЕ ЕЩЕ РАЗ                        </p>
+                    </div>
+
+                </div>
+                <div class="deep"></div>
+                <div class="footer-bottom">
+                    <div class="footer-bottom__menu">
+                        <div class="content-wrap">
+
+                                <a href="/ar/AR.html">
+    <div class="vintage-is-all  ">
+
+        <div class="rolling-block">
+            <svg class="svg svg-all_you rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#all_you"/>
+            </svg>
+        </div>
+        <div class="rolling-block">
+            <svg class="svg svg-need_is rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#need_is"/>
+            </svg>
+        </div>
+        <div class="rolling-block">
+            <svg class="svg svg-v rolling-block__content">
+                <use xlink:href="../fonts/sprite.svg#v"/>
+            </svg>
+        </div>
+    </div>
+        <div class="ar-div-block"></div>
+    </a>
+
+                            <div class="socials-portfolio clearfix">
+                                <div class="portfolio rolling-block">
+                                    <a href="#" class="rolling-block__content portfolio-btn roll-hover-btn">
+                                        <p>Portfolio</p>
+                                    </a>
+                                </div>
+                                <div class="behance rolling-block">
+                                    <a href="#" class="rolling-block__content portfolio-btn roll-hover-btn">
+                                        <p>Behance</p>
+                                    </a>
+                                </div>
+                                                                <div class="facebook rolling-block">
+                                    <a href="https://www.facebook.com/VintageWWW/" class="rolling-block__content portfolio-btn roll-hover-btn">
+                                        <p>Facebook</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="../js/error.js" defer="defer"></script></body>
+</html>
